@@ -1,1 +1,1 @@
-# Vereinszust-ndigkeit
+# Vereinszustaendigkeit
